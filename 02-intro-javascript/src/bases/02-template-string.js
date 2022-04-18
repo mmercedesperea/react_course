@@ -1,5 +1,5 @@
-const nameM = "Merche";
-const surname = "Pe";
+const nameM = "Frank";
+const surname = "Frank";
 
 const completeName = `${nameM} ${surname}`;
 

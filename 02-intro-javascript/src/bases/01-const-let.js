@@ -1,5 +1,5 @@
-const nameM = "Merche";
-const surname = "Pe";
+const nameM = "Frank";
+const surname = "castle";
 let value = 5;
 value = 4;
 
